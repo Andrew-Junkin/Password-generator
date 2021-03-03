@@ -1,0 +1,98 @@
+
+/* body */
+body {
+    background-color: #5847f3;
+    margin: 0 auto;
+    font-family: 'Arial';
+    color: #817f7f;
+}
+/* wrapper div */
+#wrapper {
+    background-color: #ffffff;
+    padding-top: 30px;
+    margin-top: 30px;
+    padding-bottom: 50px;
+    max-width: 980px;
+    margin-left: 25%;
+}
+
+ /*buttons*/
+ #wrapper {
+  width: 100%;
+ }
+#btn {
+     margin-top: 20px;
+   }
+ 
+ #generate {
+     margin-left: 22%;
+            
+        }
+  #copy-button {
+  margin-left: 22%;
+            
+        }
+    
+/* the content div */
+#content {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #FFFFFF;
+    box-shadow: 5px 10px 18px #888888;
+
+}
+/* h1 */
+h1 {
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 45px;
+    font-size: 1.9em;
+    font-family: 'Arial'; 
+    font-weight: bold;
+
+}
+/* h2 */
+h2 {
+    margin-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.7em;
+    font-family: 'Arial';
+    font-weight: bold;
+}
+/* textarea */
+textarea {
+    padding: 10%;
+    border: dashed 1px gray;
+    margin-left: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    width: 50%;
+    font-family: "sans sarif";
+    text-align: center;
+    color: #696969;
+    font-size: 20px;
+}
+/* button div */
+#btn {
+    margin-top: 20px;
+}
+/* generate button */
+#generate {
+    background-color: #eb3225;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 15px;
+    margin-left: 18%;
+    margin-bottom: 10px;
+}
+/* copy button */
+#copy-button {
+    background-color: #d1cdcd;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
